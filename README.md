@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @POOJA0
+- 👋 Hi, I’m @golden.snitch
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on new projects on security development.
